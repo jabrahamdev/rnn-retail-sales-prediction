@@ -1,4 +1,4 @@
-# Retail Sales Prediction using RNN
+# Retail Sales Prediction using RNN (Time Series)
 **(Tensorflow | Keras)**
 
 _
