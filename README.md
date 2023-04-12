@@ -7,6 +7,8 @@ _
 
 ---
 
+[Open Notebook](https://github.com/jabrahamdev/rnn-retail-sales-prediction/blob/main/02_RNN_RetailSales_TimeSeries.ipynb)
+
 ## Data | Datos
 
 ### Retail Sales: Clothing and Clothing Accessory Stores
